@@ -1,3 +1,8 @@
+---
+layout: default
+title: Devlogs
+---
+
 *Game Programmer and Tool Developer*
 
 # Devlogs
