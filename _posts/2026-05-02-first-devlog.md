@@ -1,5 +1,11 @@
 ---
 layout: post
-title: "First Devlog"
+title: "First Devlog (Not A Devlog)"
 date: 2026-05-02
 ---
+
+Hi, I am Abhijit Biswas, currently working as a game developer in Goosebump, Working in [Bullet Heroes](https://play.google.com/store/apps/details?id=com.goosebump.bulletheroes&pcampaignid=web_share). I started learning game development when I was studying in Class 11th. Even though I had Science Background, I pursued Diploma in Computer Engineering rather than a Bachelor Degree. It's a long story why I didn't do bachelor. In short, I didn't get a very good score to study in a government college and didn't had that much money to study in private one. So, Either I had to take a one year gap or join a government diploma college (which has practically no tuition fee). I choose diploma as I wanted to focus on my game development and programming skill.
+
+In my final year, I was told to join B. Tech instead of pursuing a career. My parents wanted to get me in B. Tech College back then also but covid just started and my dad was one of them who was badly affected by the covid and we had no earning for like 2 years. So we were in very tough situation financially back then. But I told them I want to pursue in Game Development, They hesitated. I told them I will get a job before I get my diploma. So yeah after searching for a job I finally found one in a month. I joined them next month. After 2-3 month I finally got my diploma it was ~8.0 CGPA (7.9 CGPA, but 8 sound more better). I was okay with it as I was learning game development during my studies and gave very little time in college. Then after a year I joined my current team.
+
+So, Let me tell you what I will usually write in my devlogs. It will be mostly about game development, programming, life updates and game development/tech industry in general . I will try to post at least one devlogs per month but no promises. If you want to get notified this is my [gmail]((mailto:gamedev.abhijit@gmail.com)) send me a email and I will notify you by myself. As I want to do it in old ways and I think I will not get that many requests which will make me overwelmed. Feel free to connect with me.

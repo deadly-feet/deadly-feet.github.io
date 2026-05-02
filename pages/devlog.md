@@ -5,8 +5,6 @@ title: Devlogs
 
 *Game Programmer and Tool Developer*
 
-# Devlogs
-
 <ul>
 {% for post in site.posts %}
   <li>
