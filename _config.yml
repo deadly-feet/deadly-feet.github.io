@@ -1,3 +1,11 @@
 title: Abhijit Biswas
 description: Game Programmer and Tool Developer
 baseurl: ""
+
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+
+permalink: /devlog/:title/
