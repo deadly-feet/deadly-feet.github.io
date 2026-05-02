@@ -1,11 +1,45 @@
 ---
+
 layout: post
-title: "First Devlog (Not A Devlog)"
+title: "First Devlog (Not Really a Devlog)"
 date: 2026-05-02
----
+----------------
 
-Hi, I am Abhijit Biswas, currently working as a game developer in Goosebump, Working in [Bullet Heroes](https://play.google.com/store/apps/details?id=com.goosebump.bulletheroes&pcampaignid=web_share). I started learning game development when I was studying in Class 11th. Even though I had Science Background, I pursued Diploma in Computer Engineering rather than a Bachelor Degree. It's a long story why I didn't do bachelor. In short, I didn't get a very good score to study in a government college and didn't had that much money to study in private one. So, Either I had to take a one year gap or join a government diploma college (which has practically no tuition fee). I choose diploma as I wanted to focus on my game development and programming skill.
+# First Devlog (Not Really a Devlog)
 
-In my final year, I was told to join B. Tech instead of pursuing a career. My parents wanted to get me in B. Tech College back then also but covid just started and my dad was one of them who was badly affected by the covid and we had no earning for like 2 years. So we were in very tough situation financially back then. But I told them I want to pursue in Game Development, They hesitated. I told them I will get a job before I get my diploma. So yeah after searching for a job I finally found one in a month. I joined them next month. After 2-3 month I finally got my diploma it was ~8.0 CGPA (7.9 CGPA, but 8 sound more better). I was okay with it as I was learning game development during my studies and gave very little time in college. Then after a year I joined my current team.
+Hi, I am Abhijit Biswas, currently working as a game developer at Goosebump and working on [Bullet Heroes](https://play.google.com/store/apps/details?id=com.goosebump.bulletheroes&pcampaignid=web_share).
 
-So, Let me tell you what I will usually write in my devlogs. It will be mostly about game development, programming, life updates and game development/tech industry in general . I will try to post at least one devlogs per month but no promises. If you want to get notified this is my [gmail]((mailto:gamedev.abhijit@gmail.com)) send me a email and I will notify you by myself. As I want to do it in old ways and I think I will not get that many requests which will make me overwelmed. Feel free to connect with me.
+I started learning game development when I was in Class 11. Even though I had a science background, I decided to pursue a Diploma in Computer Engineering instead of a bachelor’s degree. The reason is a bit complicated, but in short, I didn’t score well enough to get into a government engineering college, and private colleges were too expensive for my family at the time.
+
+So I had two choices:
+
+* take a one-year gap and try again, or
+* join a government diploma college, which practically had no tuition fee.
+
+One of the reason, I chose the diploma because I wanted to focus more on improving my programming and game development skills rather than spending another year preparing for entrance exams.
+
+During my final year, many people suggested that I should continue with B.Tech instead of trying to build a career immediately. My parents also wanted me to pursue B.Tech back then, but things were financially difficult at that time. COVID had just started, and my father was badly affected by it. For almost two years, our family had no income, so pursuing an expensive education like B. Tech from private college was not really practical for my family (This is why I admissioned into diploma not B. Tech). I mean that time, we had no idea when COVID will end and everything will get back to normal.
+
+At that point, I told my parents that I wanted to seriously pursue game development and that I would get a job before finishing my diploma.
+
+Thankfully, after about a month of searching, I got my first job offer and joined the company the following month. A few months later, I officially completed my diploma with a CGPA of ~8.0 (technically 7.9, but 8.0 sounds better).
+
+I was honestly okay with those grades because most of my energy during college went into learning game development, programming, and building projects instead of focusing entirely on academics.
+
+After working for about a year, I joined my current team.
+
+## What This Devlog Will Be About
+
+This devlog will mostly be about:
+
+* game development
+* programming
+* technical experiments
+* life updates
+* thoughts about the game and tech industry
+
+I will try to post at least one devlog every month, but no promises.
+
+If you want to get notified whenever I post something new, feel free to send me an email at [gamedev.abhijit@gmail.com](mailto:gamedev.abhijit@gmail.com). I want to do it the old-school way for now, and I probably won’t get enough requests to become overwhelmed anyway.
+
+Feel free to connect with me.
