@@ -3,7 +3,7 @@
 layout: post
 title: "First Devlog (Not Really a Devlog)"
 date: 2026-05-02
-----------------
+---
 
 # First Devlog (Not Really a Devlog)
 
