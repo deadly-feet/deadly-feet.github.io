@@ -8,10 +8,10 @@ title: Devlogs
 # Devlogs
 
 <ul>
-{% raw %}{% for post in site.posts %}{% endraw %}
+{% for post in site.posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     - {{ post.date | date: "%d %b %Y" }}
   </li>
-{% raw %}{% endfor %}{% endraw %}
+{% endfor %}
 </ul>
